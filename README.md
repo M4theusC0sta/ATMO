@@ -15,8 +15,8 @@
 ### Informações:
 - Para realização deste teste foi populado um banco com alguns dados de partidas de Counter Strike para um banco de dados (MYSQL), use as seguintes credenciais para acessar estes dados.\
 LOGIN= “candidato”\
-SENHA = ‘’analista_atmo”\
-HOST = 'atmo-db.cncfsgdjnfjz.sa-east-1.rds.amazonaws.com'\
+SENHA = ‘’********”\
+HOST = '***********'\
 SCHEMA = 'CSGO'
 
 ### Objetivos:
